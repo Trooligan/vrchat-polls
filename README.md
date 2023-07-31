@@ -1,6 +1,6 @@
-# vrchat-polls Azure Functions (Production)
+# vrchat-polls Azure Functions
 
-Azure Functions Production build for VRChat Polls Prefab.
+Azure Functions for VRChat Polls Prefab.
 
 ## Required VSCode Extensions:
 
@@ -12,14 +12,18 @@ Azure Functions Production build for VRChat Polls Prefab.
 Production: vrchat-polls
 Development: vrchat-polls-dev
 
-## Deployment to Azure
+## Deployment to Existing Azure Project
 
 1. Click Azure Extension and Login to your Azure account
-2. Select `Azure subscription 1 -> Function App`
-3. Right-click `vrchat-polls -> Deploy to Function App... -> Deploy`
+2. Select `<your_subscription> -> Function App`
+3. Right-click `<your_function_app> -> Deploy to Function App... -> Deploy`
 
 ## Local Development (Functions)
 
 1. Press `F5` or `Run -> Start Debugging`
 2. Connect to storage account
-3. Console has addresses for Functions
+3. Console has local addresses for Functions
+
+## Azure Plan
+
+![Alt text](docs/azure-plan.png)
