@@ -2,6 +2,12 @@
 
 Azure Functions for VRChat Polls Prefab.
 
+VRChat Prefab:
+
+- [https://oikki.gumroad.com/l/pollSystem](https://oikki.gumroad.com/l/pollSystem)
+- [https://oikki.booth.pm/items/4956684](https://oikki.booth.pm/items/4956684)
+
+
 ## Required VSCode Extensions:
 
 - Azure Tools
