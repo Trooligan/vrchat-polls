@@ -16,7 +16,8 @@ VRChat Prefab:
 ## Functions
 
 Production: vrchat-polls
-Development: vrchat-polls-dev
+
+Development: vrchat-polls-dev (not made yet)
 
 ## Deployment to Existing Azure Project
 
